@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: mypackage
+Version: 0.1
+Summary: EDSA example python package
+Home-page: https://github.com/yourname/mypackage
+Author: Your Name
+Author-email: 5DnQK@example.com
+License: MIT
+Requires-Dist: numpy
+
+# mypackage
+
+This library was created as an example of how to publish your own python package
